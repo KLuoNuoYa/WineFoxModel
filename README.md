@@ -108,7 +108,5 @@
 
 全部在 `AI 设定图` 文件夹下。
 
-## 定做表情包
-
-从画师 [夜月Na鸭_official](https://space.bilibili.com/14496998) 那里定制的表情包
-全部在 `定做表情包` 文件夹下。
+## 酒狐小漫画
+由 `WA_9473` 通过 Google Nano Banana 制作
