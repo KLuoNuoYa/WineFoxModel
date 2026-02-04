@@ -41,7 +41,7 @@
 |                酒狐桌宠                |     <https://www.xiaoheihe.cn/app/bbs/link/47417015b536>     | [請不要為我流淚](https://www.xiaoheihe.cn/app/user/profile/22307178) |
 |              酒狐动画二创              | <https://space.bilibili.com/3493267685509797/lists?sid=5449365> | [再来几斤小莫莫](https://space.bilibili.com/3493267685509797) |
 |              酒狐视频二创              |   <https://space.bilibili.com/471347935/lists?sid=3087459>   |  [国家一级保护废物セ](https://space.bilibili.com/471347935)  |
-|             酒狐小剧场二创           |   <https://space.bilibili.com/504391451?spm_id_from=333.1387.0.0>   |  [汽水弹珠Pixel](https://space.bilibili.com/504391451)  |
+|              酒狐小剧场二创            |            <https://space.bilibili.com/504391451>            |  [汽水弹珠Pixel](https://space.bilibili.com/504391451)  |
 
 ## 使用方式
 
